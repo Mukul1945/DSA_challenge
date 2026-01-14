@@ -1,0 +1,6 @@
+# Ignore Windows executables
+*.exe
+
+# Optional (recommended)
+*.out
+*.obj
